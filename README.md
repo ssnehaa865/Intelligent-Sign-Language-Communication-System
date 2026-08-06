@@ -150,20 +150,6 @@ Share Location
 
 ---
 
-# Project Structure
-
-```text
-Intelligent-Sign-Language-Communication-System/
-│
-├── dataset/
-├── models/
-├── notebooks/
-├── output/
-├── README.md
-├── requirements.txt
-└── main.py
-```
-
 ---
 
 # Methodology
@@ -201,4 +187,3 @@ Developed as a Major Academic Project for the Bachelor of Engineering (B.E.) in 
 
 ---
 
-This version stays faithful to your report. The only section that is **not** from the report is the **Project Structure**, because your report does not describe the repository layout. Everything else is derived directly from the report.
