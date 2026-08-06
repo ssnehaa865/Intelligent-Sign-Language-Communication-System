@@ -164,8 +164,6 @@ Intelligent-Sign-Language-Communication-System/
 └── main.py
 ```
 
-> **Note:** Your report does **not** include a project directory structure. The above is only a placeholder structure for organizing the repository.
-
 ---
 
 # Methodology
@@ -196,6 +194,7 @@ Intelligent-Sign-Language-Communication-System/
 
 Status:Major Academic Project(In progress)
 Completion:Approximately 70% complete
+
 Developed as a Major Academic Project for the Bachelor of Engineering (B.E.) in Computer Science & Engineering, with core functionalities completed and testing and optimization currently in progress.
 
 
